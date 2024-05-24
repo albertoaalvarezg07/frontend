@@ -1,0 +1,101 @@
+.container{
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: Arial;
+    
+}
+.container2{
+
+    border-radius: 10%;
+    border-color: gray;
+    border-width: 1px;
+    padding: 15px;
+    box-shadow: 1px 2px 2px 1px rgba(95, 95, 95, 0.3);
+}
+input{
+    width: 95%;
+    height: 35px;
+    padding-left: 20px;
+    margin: 5px 0px;
+
+    
+}
+img{
+    height: 200px;
+    margin: 0px 100px;
+
+    
+}
+.empecemos{
+    width: 100%;
+    
+}
+h1{
+    
+    width: 130px;
+    padding-bottom: 7px;
+    border-width: 3px;
+    border-color: rgb(37, 131, 202);
+    border-bottom-style: solid;
+    font-size: 21px;
+    margin: 5px 0px;
+}
+.alberto{
+    text-align: center;
+    margin: 5px 0px;
+}
+button{
+    
+    border: none;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 20px;
+    width: 100%;
+    margin: 5px 0px;
+}
+#ingresar{
+    background-color: rgb(37, 131, 202);
+    color: white;
+}
+#google{
+    
+    box-shadow: 0 4px 8px 0 rgba(95, 95, 95, 0.8);
+    
+}
+#reenviar{
+    text-decoration: none;
+    text-align: left;
+    display: inline-block;
+    padding: 0px 0px;
+    padding-left: 45%;
+    color: rgb(37, 131, 202);
+    width: 55%;
+}
+
+.bien{
+    text-align: center;
+    margin: 5px 0px;
+    
+
+}
+#googles{
+    height: 15px;
+    padding: 0px;
+    margin: 0px;
+}
+.continuar{
+
+    padding: 0px;
+    margin: 0px 5px;
+}
+#gmail{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    color: black;
+}
